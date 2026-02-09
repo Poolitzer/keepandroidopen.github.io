@@ -11,6 +11,8 @@ site_report_issues: "Nahlásit problémy se stránkou"
 site_disclaimer: "**Vyloučení odpovědnosti:** Tato stránka je komunitním, nekomerčním projektem. Je provozována výlučně pro informační a vzdělávací účely."
 site_privacy: "**Soukromí:** Tato stránka nepoužívá žádné cookies a neprovozuje žádné sledování nebo logování uživatelů."
 site_copyright: "**Copyright:** Žádný. Toto dílo je označeno"
+
+lockdown_banner: "Android will become a locked-down platform in"
 ---
 
 V srpnu 2025, Google [oznámil](https://developer.android.com/developer-verification), že od následujícího roku

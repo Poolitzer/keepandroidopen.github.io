@@ -11,6 +11,8 @@ site_report_issues: "Signaler un problème sur le site"
 site_disclaimer: "**Avertissement :** Ce site web est une initiative communautaire à but non lucratif. Il est exploité uniquement à des fins d’information et d’éducation."
 site_privacy: "**Confidentialité :** Ce site n’utilise aucun cookie et n’effectue aucun suivi ni enregistrement des utilisateurs."
 site_copyright: "**Droits d'auteur :** Aucun. Cette œuvre est sous licence"
+
+lockdown_banner: "Android deviendra une plateforme verrouillée."
 ---
 
 En août 2025, Google a [annoncé](https://developer.android.com/developer-verification) que, dès l'année suivante,

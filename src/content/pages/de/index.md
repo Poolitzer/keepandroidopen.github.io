@@ -11,6 +11,8 @@ site_report_issues: "Melden Sie ein Problem auf der Website"
 site_disclaimer: "**Haftungsausschluss**: Diese Website ist eine gemeinschaftliche, nicht-kommerzielle Initiative. Sie dient ausschließlich Informations- und Bildungszwecken."
 site_privacy: "**Datenschutz**: Diese Website verwendet keine Cookies und führt weder Tracking noch Nutzerprotokollierung durch."
 site_copyright: "**Urheberrechte**: Keine. Dieses Werk steht unter der Lizenz"
+
+lockdown_banner: "Android wird eine geschlossene Plattform werden."
 ---
 
 Im August 2025 hat Google [angekündigt](https://developer.android.com/developer-verification), dass es ab dem folgenden Jahr nicht mehr möglich sein wird, Anwendungen für die Android-Plattform zu entwickeln, ohne sich zuvor bei Google registriert zu haben.

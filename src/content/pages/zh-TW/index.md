@@ -11,6 +11,8 @@ site_report_issues: "報告網站問題"
 site_disclaimer: "**免責聲明：**本網站乃一個由社群驅動的非商業企劃。其運作純粹以供資訊與教育用途。"
 site_privacy: "**隱私：**本網站並不使用 Cookie，也不作使用者追蹤或記錄。"
 site_copyright: "**版權：**無。此著作乃標記為"
+
+lockdown_banner: "Android 將會變成一個受限制的平台"
 --- 
 
 2025 年八月，Google [宣佈](https://developer.android.com/developer-verification)由明年開始，將不再可能開發應用程式以供 Android 平臺上使用，除非先與 Google 集中註冊。此註冊將涉及：

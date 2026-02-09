@@ -11,6 +11,8 @@ site_report_issues: "Report Site Issues"
 site_disclaimer: "**Disclaimer:** This website is a community-driven noncommercial undertaking. It is operated solely for informational and educational purposes."
 site_privacy: "**Privacy:** This site uses no cookies and performs no user tracking or logging."
 site_copyright: "**Copyright:** None. This work is marked"
+
+lockdown_banner: "Android will become a locked-down platform"
 ---
 
 In August 2025, Google [announced](https://developer.android.com/developer-verification) that starting next year,

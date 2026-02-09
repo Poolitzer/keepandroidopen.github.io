@@ -11,6 +11,8 @@ site_report_issues: "Site Sorunlarını Raporlayın"
 site_disclaimer: "**Disclaimer**: Bu site kâr amacı gütmez ve topluluk tarafından yönetilen bir girişimdir. Sadece bigilendirme ve eğitim amaçları bulunur."
 site_privacy: "**Mahremiyet Beyanı**: Bu site hiçbir çerez kullanmaz ve kullanıcıları takip etmez veya kaydetmez."
 site_copyright: "**Telif Hakkı**: Yok. Bu çalışma kamu malıdır:"
+
+lockdown_banner: "Android kısıtlı bir platform haline gelecek."
 ---
 
 Ağustos 2025 tarihinde Google, gelecek seneden itibaren önceden

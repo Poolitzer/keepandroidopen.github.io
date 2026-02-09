@@ -11,6 +11,8 @@ site_report_issues: "Nahlásiť nezrovnalosti na stránke"
 site_disclaimer: "**Upozornenie:** Táto webová stránka je komunitným nekomerčným projektom. Je prevádzkovaná výlučne na informačné a vzdelávacie účely."
 site_privacy: "**Súkromie:** Táto stránka nepoužíva žiadne súbory cookie a nevykonáva žiadne sledovanie ani zaznamenávanie používateľov."
 site_copyright: "**Autorské práva:** Žiadne. Toto dielo je označené"
+
+lockdown_banner: "Android sa stane uzamknutou platformou"
 ---
 
 V auguste 2025 spoločnosť Google [oznámila](https://developer.android.com/developer-verification), že od budúceho roka

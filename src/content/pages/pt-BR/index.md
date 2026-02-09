@@ -11,6 +11,8 @@ site_report_issues: "Reportar Problemas no Site"
 site_disclaimer: "**Atenção:** Este website é uma empreitada comunitária não comercial. Ele está sendo operado com propostas puramente informativas e educacionais."
 site_privacy: "**Privacidade:** Este site não utiliza cookies nem faz rastreamento dos usuários ou salva logs de uso."
 site_copyright: "**Copyright:** Nenhum. Esse trabalho é marcado como"
+
+lockdown_banner: "O Android se tornará uma plataforma fechada"
 ---
 
 Em Agosto de 2025 o Google [anunciou](https://developer.android.com/developer-verification) que, a partir do ano que vem,

@@ -11,6 +11,8 @@ site_report_issues: "Segnala problemi del sito web"
 site_disclaimer: "**Dichiarazione di non responsabilità:** Questo sito web è un'iniziativa non commerciale gestita dalla comunità. È gestito esclusivamente a scopo informativo e didattico."
 site_privacy: "**Privacy:** Questo sito web non utilizza cookie e non effettua alcun tracciamento o registrazione degli utenti."
 site_copyright: "**Diritti d'autore:** Nessuno. Quest'opera è soggetta alla licenza."
+
+lockdown_banner: "Android diventerà una piattaforma bloccata"
 ---
 
 Nell'agosto 2025 Google [ha annunciato](https://developer.android.com/developer-verification) che a partire dal prossimo anno

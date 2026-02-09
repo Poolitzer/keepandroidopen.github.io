@@ -11,6 +11,8 @@ site_report_issues: "报告网站问题"
 site_disclaimer: "**免责声明:**本站是一个由社区推动的非商业性项目。仅用于提供信息与教育目的。"
 site_privacy: "**隐私:**本站不使用cookies，以及用户跟踪或记录"
 site_copyright: "**版权:** 无。本著作已标记为"
+
+lockdown_banner: "安卓将成为一个封闭平台"
 ---
 
 2025年八月，Google [宣布](https://developer.android.com/developer-verification)从明年开始，
