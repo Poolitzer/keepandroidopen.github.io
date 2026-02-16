@@ -14,12 +14,22 @@ It aims to inform on the impacts on consumers, developers, states and coordinate
 3. Make the changes.
 4. Create a pull request.
 
+## Running the site locally
+
+This is an Astro site, so you should be able to check out your fork locally and run it as per the [docs](https://docs.astro.build/en/develop-and-build/#start-the-astro-dev-server) with:
+
+```
+npm run dev
+```
+
+The site should run locally and be browsable at [http://localhost:4321/](http://localhost:4321/).
+
 ## Translations Needed!
 
 To provide a translation into a new language like Italian (language code: "it"):
 
-1. [Edit the `_layouts/default.html`](https://github.com/keepandroidopen/keepandroidopen.github.io/edit/main/_layouts/default.html) in a fork and update the language menu at the end with the new language code.
-2. Create a new top-level file `index-<langcode>.md` and add the translation of the English `index.md` file. Translate the markdown headers and page content. The most important text is at the beginning; the lists of links do not all need to be translated.
+1. [Edit `astro.config.mjs`](https://github.com/keepandroidopen/keepandroidopen.github.io/edit/main/astro.config.mjs) in a fork and update the language menu at the end with the new language code.
+2. Create a new folder in [`src/content/pages/`](https://github.com/keepandroidopen/keepandroidopen.github.io/tree/main/src/content/pages/) and add the translation of the English `index.md` file. Translate the markdown headers and page content. The most important text is at the beginning; the lists of links do not all need to be translated.
 3. Commit changes to your fork and file a Pull Request with your translation.
 
 ## License 
