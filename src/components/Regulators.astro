@@ -1,0 +1,62 @@
+---
+import { resolve } from '../i18n/resolve';
+import { marked } from 'marked';
+import regulators from '../data/regulators.yaml';
+
+interface Props {
+  locale: string;
+}
+
+const { locale } = Astro.props;
+
+/** Parse inline markdown and add target="_blank" + ↗ to http/https links */
+function renderInline(md: string): string {
+  let html = marked.parseInline(md) as string;
+  html = html.replace(/<a href="(https?:\/\/[^"]*)">/g, '<a href="$1" target="_blank">');
+  html = html.replace(/<a href="(https?:\/\/[^"]*)" target="_blank">([^<]*)<\/a>/g,
+    '<a href="$1" target="_blank">$2 ↗</a>');
+  return html;
+}
+
+/** Parse block markdown and add target="_blank" + ↗ to http/https links */
+function renderBlock(md: string): string {
+  let html = marked.parse(md) as string;
+  html = html.replace(/<a href="(https?:\/\/[^"]*)">/g, '<a href="$1" target="_blank">');
+  html = html.replace(/<a href="(https?:\/\/[^"]*)" target="_blank">([^<]*)<\/a>/g,
+    '<a href="$1" target="_blank">$2 ↗</a>');
+  return html;
+}
+
+const countries = regulators.countries.filter((c: any) =>
+  !c.locales || c.locales.includes(locale)
+);
+
+// Korean locale puts South Korea first
+const orderedCountries = locale === 'ko'
+  ? [
+      ...countries.filter((c: any) => c.id === 'south-korea'),
+      ...countries.filter((c: any) => c.id !== 'south-korea'),
+    ]
+  : countries;
+---
+
+<h3 id="consumers">{resolve(regulators.heading, locale)}</h3>
+
+<Fragment set:html={renderBlock(resolve(regulators.intro, locale))} />
+<Fragment set:html={renderBlock(resolve(regulators.follow_up, locale))} />
+
+{orderedCountries.map((country: any) => {
+  const items = country.items.filter((item: any) =>
+    !item.locales || item.locales.includes(locale)
+  );
+  return (
+    <>
+      <h4>{resolve(country.name, locale)}</h4>
+      <ul>
+        {items.map((item: any) => (
+          <li set:html={renderInline(resolve(item.text, locale))} />
+        ))}
+      </ul>
+    </>
+  );
+})}
