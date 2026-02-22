@@ -59,7 +59,8 @@ const byLabel = resolve({ en: 'by', ru: 'от' }, locale);
     <li>
       &ldquo;{resolve(item.text, locale)}&rdquo;
       {item.author && <> &mdash; {item.author}</>}
-      {' '}&mdash; <a href={item.url} target="_blank">{item.url} ↗</a>
+      {' '}&mdash; <a href={`https://www.youtube.com/watch?v=${item.ytid}`} target="_blank">YouTube ↗</a>
+      {' '}| <a href={`https://redirect.invidious.io/watch?v=${item.ytid}`} target="_blank">Invidious ↗</a>
     </li>
   ))}
 </ul>
