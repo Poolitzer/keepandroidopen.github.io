@@ -119,6 +119,8 @@ countries:
           pt-BR: "Faça uma reclamação junto à [US Federal Trade Commission: Antitrust Complaints](https://www.ftc.gov/advice-guidance/competition-guidance/antitrust-complaint-intake)"
           zh-CN: "向[美国联邦贸易委员会：反垄断投诉](https://www.ftc.gov/advice-guidance/competition-guidance/antitrust-complaint-intake)投诉"
           zh-TW: "與[美國聯邦貿易委員會：反托拉斯投訴](https://www.ftc.gov/advice-guidance/competition-guidance/antitrust-complaint-intake)開立投訴"
+      - text:
+          en: "[Find your House Representative](https://www.house.gov/representatives/find-your-representative)"
     children:
       - id: "us-al"
         name:
@@ -130,8 +132,6 @@ countries:
               en: "Contact Senator [Tommy Tuberville](https://www.tuberville.senate.gov/contact)"
           - text:
               en: "Contact Senator [Katie Britt](https://www.britt.senate.gov/contact)"
-          - text:
-              en: "[Find your House Representative](https://www.house.gov/representatives/find-your-representative)"
       - id: "us-ak"
         name:
           en: "Alaska"
@@ -142,8 +142,6 @@ countries:
               en: "Contact Senator [Lisa Murkowski](https://www.murkowski.senate.gov/contact)"
           - text:
               en: "Contact Senator [Dan Sullivan](https://www.sullivan.senate.gov/contact)"
-          - text:
-              en: "[Find your House Representative](https://www.house.gov/representatives/find-your-representative)"
       - id: "us-az"
         name:
           en: "Arizona"
@@ -154,8 +152,6 @@ countries:
               en: "Contact Senator [Mark Kelly](https://www.kelly.senate.gov/contact)"
           - text:
               en: "Contact Senator [Ruben Gallego](https://www.gallego.senate.gov/contact)"
-          - text:
-              en: "[Find your House Representative](https://www.house.gov/representatives/find-your-representative)"
       - id: "us-ar"
         name:
           en: "Arkansas"
@@ -166,8 +162,6 @@ countries:
               en: "Contact Senator [John Boozman](https://www.boozman.senate.gov/contact)"
           - text:
               en: "Contact Senator [Tom Cotton](https://www.cotton.senate.gov/contact)"
-          - text:
-              en: "[Find your House Representative](https://www.house.gov/representatives/find-your-representative)"
       - id: "us-ca"
         name:
           en: "California"
@@ -178,8 +172,6 @@ countries:
               en: "Contact Senator [Alex Padilla](https://www.padilla.senate.gov/contact)"
           - text:
               en: "Contact Senator [Adam Schiff](https://www.schiff.senate.gov/contact)"
-          - text:
-              en: "[Find your House Representative](https://www.house.gov/representatives/find-your-representative)"
       - id: "us-co"
         name:
           en: "Colorado"
@@ -190,8 +182,6 @@ countries:
               en: "Contact Senator [Michael Bennet](https://www.bennet.senate.gov/contact)"
           - text:
               en: "Contact Senator [John Hickenlooper](https://www.hickenlooper.senate.gov/contact)"
-          - text:
-              en: "[Find your House Representative](https://www.house.gov/representatives/find-your-representative)"
       - id: "us-ct"
         name:
           en: "Connecticut"
@@ -202,8 +192,6 @@ countries:
               en: "Contact Senator [Richard Blumenthal](https://www.blumenthal.senate.gov/contact)"
           - text:
               en: "Contact Senator [Chris Murphy](https://www.murphy.senate.gov/contact)"
-          - text:
-              en: "[Find your House Representative](https://www.house.gov/representatives/find-your-representative)"
       - id: "us-de"
         name:
           en: "Delaware"
@@ -214,8 +202,6 @@ countries:
               en: "Contact Senator [Chris Coons](https://www.coons.senate.gov/contact)"
           - text:
               en: "Contact Senator [Lisa Blunt Rochester](https://www.bluntrochester.senate.gov/contact)"
-          - text:
-              en: "[Find your House Representative](https://www.house.gov/representatives/find-your-representative)"
       - id: "us-fl"
         name:
           en: "Florida"
@@ -226,8 +212,6 @@ countries:
               en: "Contact Senator [Rick Scott](https://www.rickscott.senate.gov/contact)"
           - text:
               en: "Contact Senator [Ashley Moody](https://www.moody.senate.gov/contact)"
-          - text:
-              en: "[Find your House Representative](https://www.house.gov/representatives/find-your-representative)"
       - id: "us-ga"
         name:
           en: "Georgia"
@@ -238,8 +222,6 @@ countries:
               en: "Contact Senator [Jon Ossoff](https://www.ossoff.senate.gov/contact)"
           - text:
               en: "Contact Senator [Raphael Warnock](https://www.warnock.senate.gov/contact)"
-          - text:
-              en: "[Find your House Representative](https://www.house.gov/representatives/find-your-representative)"
       - id: "us-hi"
         name:
           en: "Hawaii"
@@ -250,8 +232,6 @@ countries:
               en: "Contact Senator [Brian Schatz](https://www.schatz.senate.gov/contact)"
           - text:
               en: "Contact Senator [Mazie Hirono](https://www.hirono.senate.gov/contact)"
-          - text:
-              en: "[Find your House Representative](https://www.house.gov/representatives/find-your-representative)"
       - id: "us-id"
         name:
           en: "Idaho"
@@ -262,8 +242,6 @@ countries:
               en: "Contact Senator [Mike Crapo](https://www.crapo.senate.gov/contact)"
           - text:
               en: "Contact Senator [Jim Risch](https://www.risch.senate.gov/contact)"
-          - text:
-              en: "[Find your House Representative](https://www.house.gov/representatives/find-your-representative)"
       - id: "us-il"
         name:
           en: "Illinois"
@@ -274,8 +252,6 @@ countries:
               en: "Contact Senator [Dick Durbin](https://www.durbin.senate.gov/contact)"
           - text:
               en: "Contact Senator [Tammy Duckworth](https://www.duckworth.senate.gov/contact)"
-          - text:
-              en: "[Find your House Representative](https://www.house.gov/representatives/find-your-representative)"
       - id: "us-in"
         name:
           en: "Indiana"
@@ -286,8 +262,6 @@ countries:
               en: "Contact Senator [Todd Young](https://www.young.senate.gov/contact)"
           - text:
               en: "Contact Senator [Jim Banks](https://www.banks.senate.gov/contact)"
-          - text:
-              en: "[Find your House Representative](https://www.house.gov/representatives/find-your-representative)"
       - id: "us-ia"
         name:
           en: "Iowa"
@@ -298,8 +272,6 @@ countries:
               en: "Contact Senator [Chuck Grassley](https://www.grassley.senate.gov/contact)"
           - text:
               en: "Contact Senator [Joni Ernst](https://www.ernst.senate.gov/contact)"
-          - text:
-              en: "[Find your House Representative](https://www.house.gov/representatives/find-your-representative)"
       - id: "us-ks"
         name:
           en: "Kansas"
@@ -310,8 +282,6 @@ countries:
               en: "Contact Senator [Jerry Moran](https://www.moran.senate.gov/contact)"
           - text:
               en: "Contact Senator [Roger Marshall](https://www.marshall.senate.gov/contact)"
-          - text:
-              en: "[Find your House Representative](https://www.house.gov/representatives/find-your-representative)"
       - id: "us-ky"
         name:
           en: "Kentucky"
@@ -322,8 +292,6 @@ countries:
               en: "Contact Senator [Mitch McConnell](https://www.mcconnell.senate.gov/contact)"
           - text:
               en: "Contact Senator [Rand Paul](https://www.paul.senate.gov/contact)"
-          - text:
-              en: "[Find your House Representative](https://www.house.gov/representatives/find-your-representative)"
       - id: "us-la"
         name:
           en: "Louisiana"
@@ -334,8 +302,6 @@ countries:
               en: "Contact Senator [Bill Cassidy](https://www.cassidy.senate.gov/contact)"
           - text:
               en: "Contact Senator [John Kennedy](https://www.kennedy.senate.gov/contact)"
-          - text:
-              en: "[Find your House Representative](https://www.house.gov/representatives/find-your-representative)"
       - id: "us-me"
         name:
           en: "Maine"
@@ -346,8 +312,6 @@ countries:
               en: "Contact Senator [Susan Collins](https://www.collins.senate.gov/contact)"
           - text:
               en: "Contact Senator [Angus King](https://www.king.senate.gov/contact)"
-          - text:
-              en: "[Find your House Representative](https://www.house.gov/representatives/find-your-representative)"
       - id: "us-md"
         name:
           en: "Maryland"
@@ -358,8 +322,6 @@ countries:
               en: "Contact Senator [Chris Van Hollen](https://www.vanhollen.senate.gov/contact)"
           - text:
               en: "Contact Senator [Angela Alsobrooks](https://www.alsobrooks.senate.gov/contact)"
-          - text:
-              en: "[Find your House Representative](https://www.house.gov/representatives/find-your-representative)"
       - id: "us-ma"
         name:
           en: "Massachusetts"
@@ -370,8 +332,6 @@ countries:
               en: "Contact Senator [Elizabeth Warren](https://www.warren.senate.gov/contact)"
           - text:
               en: "Contact Senator [Ed Markey](https://www.markey.senate.gov/contact)"
-          - text:
-              en: "[Find your House Representative](https://www.house.gov/representatives/find-your-representative)"
       - id: "us-mi"
         name:
           en: "Michigan"
@@ -382,8 +342,6 @@ countries:
               en: "Contact Senator [Gary Peters](https://www.peters.senate.gov/contact)"
           - text:
               en: "Contact Senator [Elissa Slotkin](https://www.slotkin.senate.gov/contact)"
-          - text:
-              en: "[Find your House Representative](https://www.house.gov/representatives/find-your-representative)"
       - id: "us-mn"
         name:
           en: "Minnesota"
@@ -394,8 +352,6 @@ countries:
               en: "Contact Senator [Amy Klobuchar](https://www.klobuchar.senate.gov/contact)"
           - text:
               en: "Contact Senator [Tina Smith](https://www.smith.senate.gov/contact)"
-          - text:
-              en: "[Find your House Representative](https://www.house.gov/representatives/find-your-representative)"
       - id: "us-ms"
         name:
           en: "Mississippi"
@@ -406,8 +362,6 @@ countries:
               en: "Contact Senator [Roger Wicker](https://www.wicker.senate.gov/contact)"
           - text:
               en: "Contact Senator [Cindy Hyde-Smith](https://www.hydesmith.senate.gov/contact)"
-          - text:
-              en: "[Find your House Representative](https://www.house.gov/representatives/find-your-representative)"
       - id: "us-mo"
         name:
           en: "Missouri"
@@ -418,8 +372,6 @@ countries:
               en: "Contact Senator [Josh Hawley](https://www.hawley.senate.gov/contact)"
           - text:
               en: "Contact Senator [Eric Schmitt](https://www.schmitt.senate.gov/contact)"
-          - text:
-              en: "[Find your House Representative](https://www.house.gov/representatives/find-your-representative)"
       - id: "us-mt"
         name:
           en: "Montana"
@@ -430,8 +382,6 @@ countries:
               en: "Contact Senator [Steve Daines](https://www.daines.senate.gov/contact)"
           - text:
               en: "Contact Senator [Tim Sheehy](https://www.sheehy.senate.gov/contact)"
-          - text:
-              en: "[Find your House Representative](https://www.house.gov/representatives/find-your-representative)"
       - id: "us-ne"
         name:
           en: "Nebraska"
@@ -442,8 +392,6 @@ countries:
               en: "Contact Senator [Deb Fischer](https://www.fischer.senate.gov/contact)"
           - text:
               en: "Contact Senator [Pete Ricketts](https://www.ricketts.senate.gov/contact)"
-          - text:
-              en: "[Find your House Representative](https://www.house.gov/representatives/find-your-representative)"
       - id: "us-nv"
         name:
           en: "Nevada"
@@ -454,8 +402,6 @@ countries:
               en: "Contact Senator [Catherine Cortez Masto](https://www.cortezmasto.senate.gov/contact)"
           - text:
               en: "Contact Senator [Jacky Rosen](https://www.rosen.senate.gov/contact)"
-          - text:
-              en: "[Find your House Representative](https://www.house.gov/representatives/find-your-representative)"
       - id: "us-nh"
         name:
           en: "New Hampshire"
@@ -466,8 +412,6 @@ countries:
               en: "Contact Senator [Jeanne Shaheen](https://www.shaheen.senate.gov/contact)"
           - text:
               en: "Contact Senator [Maggie Hassan](https://www.hassan.senate.gov/contact)"
-          - text:
-              en: "[Find your House Representative](https://www.house.gov/representatives/find-your-representative)"
       - id: "us-nj"
         name:
           en: "New Jersey"
@@ -478,8 +422,6 @@ countries:
               en: "Contact Senator [Cory Booker](https://www.booker.senate.gov/contact)"
           - text:
               en: "Contact Senator [Andy Kim](https://www.kim.senate.gov/contact)"
-          - text:
-              en: "[Find your House Representative](https://www.house.gov/representatives/find-your-representative)"
       - id: "us-nm"
         name:
           en: "New Mexico"
@@ -490,8 +432,6 @@ countries:
               en: "Contact Senator [Martin Heinrich](https://www.heinrich.senate.gov/contact)"
           - text:
               en: "Contact Senator [Ben Ray Lujan](https://www.lujan.senate.gov/contact)"
-          - text:
-              en: "[Find your House Representative](https://www.house.gov/representatives/find-your-representative)"
       - id: "us-ny"
         name:
           en: "New York"
@@ -502,8 +442,6 @@ countries:
               en: "Contact Senator [Chuck Schumer](https://www.schumer.senate.gov/contact)"
           - text:
               en: "Contact Senator [Kirsten Gillibrand](https://www.gillibrand.senate.gov/contact)"
-          - text:
-              en: "[Find your House Representative](https://www.house.gov/representatives/find-your-representative)"
       - id: "us-nc"
         name:
           en: "North Carolina"
@@ -514,8 +452,6 @@ countries:
               en: "Contact Senator [Thom Tillis](https://www.tillis.senate.gov/contact)"
           - text:
               en: "Contact Senator [Ted Budd](https://www.budd.senate.gov/contact)"
-          - text:
-              en: "[Find your House Representative](https://www.house.gov/representatives/find-your-representative)"
       - id: "us-nd"
         name:
           en: "North Dakota"
@@ -526,8 +462,6 @@ countries:
               en: "Contact Senator [John Hoeven](https://www.hoeven.senate.gov/contact)"
           - text:
               en: "Contact Senator [Kevin Cramer](https://www.cramer.senate.gov/contact)"
-          - text:
-              en: "[Find your House Representative](https://www.house.gov/representatives/find-your-representative)"
       - id: "us-oh"
         name:
           en: "Ohio"
@@ -538,8 +472,6 @@ countries:
               en: "Contact Senator [Bernie Moreno](https://www.moreno.senate.gov/contact)"
           - text:
               en: "Contact Senator [Jon Husted](https://www.husted.senate.gov/contact)"
-          - text:
-              en: "[Find your House Representative](https://www.house.gov/representatives/find-your-representative)"
       - id: "us-ok"
         name:
           en: "Oklahoma"
@@ -550,8 +482,6 @@ countries:
               en: "Contact Senator [James Lankford](https://www.lankford.senate.gov/contact)"
           - text:
               en: "Contact Senator [Markwayne Mullin](https://www.mullin.senate.gov/contact)"
-          - text:
-              en: "[Find your House Representative](https://www.house.gov/representatives/find-your-representative)"
       - id: "us-or"
         name:
           en: "Oregon"
@@ -562,8 +492,6 @@ countries:
               en: "Contact Senator [Ron Wyden](https://www.wyden.senate.gov/contact)"
           - text:
               en: "Contact Senator [Jeff Merkley](https://www.merkley.senate.gov/contact)"
-          - text:
-              en: "[Find your House Representative](https://www.house.gov/representatives/find-your-representative)"
       - id: "us-pa"
         name:
           en: "Pennsylvania"
@@ -574,8 +502,6 @@ countries:
               en: "Contact Senator [John Fetterman](https://www.fetterman.senate.gov/contact)"
           - text:
               en: "Contact Senator [Dave McCormick](https://www.mccormick.senate.gov/contact)"
-          - text:
-              en: "[Find your House Representative](https://www.house.gov/representatives/find-your-representative)"
       - id: "us-ri"
         name:
           en: "Rhode Island"
@@ -586,8 +512,6 @@ countries:
               en: "Contact Senator [Jack Reed](https://www.reed.senate.gov/contact)"
           - text:
               en: "Contact Senator [Sheldon Whitehouse](https://www.whitehouse.senate.gov/contact)"
-          - text:
-              en: "[Find your House Representative](https://www.house.gov/representatives/find-your-representative)"
       - id: "us-sc"
         name:
           en: "South Carolina"
@@ -598,8 +522,6 @@ countries:
               en: "Contact Senator [Lindsey Graham](https://www.lgraham.senate.gov/contact)"
           - text:
               en: "Contact Senator [Tim Scott](https://www.scott.senate.gov/contact)"
-          - text:
-              en: "[Find your House Representative](https://www.house.gov/representatives/find-your-representative)"
       - id: "us-sd"
         name:
           en: "South Dakota"
@@ -610,8 +532,6 @@ countries:
               en: "Contact Senator [John Thune](https://www.thune.senate.gov/contact)"
           - text:
               en: "Contact Senator [Mike Rounds](https://www.rounds.senate.gov/contact)"
-          - text:
-              en: "[Find your House Representative](https://www.house.gov/representatives/find-your-representative)"
       - id: "us-tn"
         name:
           en: "Tennessee"
@@ -622,8 +542,6 @@ countries:
               en: "Contact Senator [Marsha Blackburn](https://www.blackburn.senate.gov/contact)"
           - text:
               en: "Contact Senator [Bill Hagerty](https://www.hagerty.senate.gov/contact)"
-          - text:
-              en: "[Find your House Representative](https://www.house.gov/representatives/find-your-representative)"
       - id: "us-tx"
         name:
           en: "Texas"
@@ -634,8 +552,6 @@ countries:
               en: "Contact Senator [John Cornyn](https://www.cornyn.senate.gov/contact)"
           - text:
               en: "Contact Senator [Ted Cruz](https://www.cruz.senate.gov/contact)"
-          - text:
-              en: "[Find your House Representative](https://www.house.gov/representatives/find-your-representative)"
       - id: "us-ut"
         name:
           en: "Utah"
@@ -646,8 +562,6 @@ countries:
               en: "Contact Senator [Mike Lee](https://www.lee.senate.gov/contact)"
           - text:
               en: "Contact Senator [John Curtis](https://www.curtis.senate.gov/contact)"
-          - text:
-              en: "[Find your House Representative](https://www.house.gov/representatives/find-your-representative)"
       - id: "us-vt"
         name:
           en: "Vermont"
@@ -658,8 +572,6 @@ countries:
               en: "Contact Senator [Bernie Sanders](https://www.sanders.senate.gov/contact)"
           - text:
               en: "Contact Senator [Peter Welch](https://www.welch.senate.gov/contact)"
-          - text:
-              en: "[Find your House Representative](https://www.house.gov/representatives/find-your-representative)"
       - id: "us-va"
         name:
           en: "Virginia"
@@ -670,8 +582,6 @@ countries:
               en: "Contact Senator [Mark Warner](https://www.warner.senate.gov/contact)"
           - text:
               en: "Contact Senator [Tim Kaine](https://www.kaine.senate.gov/contact)"
-          - text:
-              en: "[Find your House Representative](https://www.house.gov/representatives/find-your-representative)"
       - id: "us-wa"
         name:
           en: "Washington"
@@ -682,8 +592,6 @@ countries:
               en: "Contact Senator [Patty Murray](https://www.murray.senate.gov/contact)"
           - text:
               en: "Contact Senator [Maria Cantwell](https://www.cantwell.senate.gov/contact)"
-          - text:
-              en: "[Find your House Representative](https://www.house.gov/representatives/find-your-representative)"
       - id: "us-wv"
         name:
           en: "West Virginia"
@@ -694,8 +602,6 @@ countries:
               en: "Contact Senator [Shelley Moore Capito](https://www.capito.senate.gov/contact)"
           - text:
               en: "Contact Senator [Jim Justice](https://www.justice.senate.gov/contact)"
-          - text:
-              en: "[Find your House Representative](https://www.house.gov/representatives/find-your-representative)"
       - id: "us-wi"
         name:
           en: "Wisconsin"
@@ -706,8 +612,6 @@ countries:
               en: "Contact Senator [Ron Johnson](https://www.ronjohnson.senate.gov/contact)"
           - text:
               en: "Contact Senator [Tammy Baldwin](https://www.baldwin.senate.gov/contact)"
-          - text:
-              en: "[Find your House Representative](https://www.house.gov/representatives/find-your-representative)"
       - id: "us-wy"
         name:
           en: "Wyoming"
@@ -718,8 +622,6 @@ countries:
               en: "Contact Senator [John Barrasso](https://www.barrasso.senate.gov/contact)"
           - text:
               en: "Contact Senator [Cynthia Lummis](https://www.lummis.senate.gov/contact)"
-          - text:
-              en: "[Find your House Representative](https://www.house.gov/representatives/find-your-representative)"
   - id: european-union
     name:
       ar: "الاتحاد الأوروبي"
